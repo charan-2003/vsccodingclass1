@@ -1,1 +1,0 @@
-This is to test the delete file in vsc
